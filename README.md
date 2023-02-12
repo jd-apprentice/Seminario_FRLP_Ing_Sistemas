@@ -24,15 +24,15 @@
 git clone git@github.com:jd-apprentice/Seminario_FRLP_Ing_Sistemas.git
 cd ./Seminario_FRLP_Ing_Sistemas
 chmod +x ./GU_Linux.sh
-./GU_Linux.sh
+./scripts/GU_Linux.sh
 ```
 
 ## 🪟 Windows
 
-```powershell
+```shell
 git clone https://github.com/jd-apprentice/Seminario_FRLP_Ing_Sistemas.git
 cd ./Seminario_FRLP_Ing_Sistemas
-./GU_Windows.ps1
+./scripts/GU_Windows.ps1
 ```
 
 ## 📁 Generamos las siguientes carpetas de la siguiente forma
