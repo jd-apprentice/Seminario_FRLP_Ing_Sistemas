@@ -23,7 +23,7 @@
 ```bash
 git clone git@github.com:jd-apprentice/Seminario_FRLP_Ing_Sistemas.git
 cd ./Seminario_FRLP_Ing_Sistemas
-chmod +x ./GU_Linux.sh
+chmod +x ./scripts/GU_Linux.sh
 ./scripts/GU_Linux.sh
 ```
 
