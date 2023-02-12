@@ -27,3 +27,15 @@ Por lo cual entonces podemos decir que 68 factorizado es ->
 Entonces ahora pasemos a formar el `mcm` el cual esta compuesto por todos los factores que aparecen en la factorizacion en su maximo exponente para este caso seria ->
 
 `mcm (32;68) = 2^5 x 17 = 544`
+
+### 🔢 MCD
+
+- Realizamos los mismos pasos que el `mcm`
+- Factorizamos primero que todo
+- Realizamos la busqueda del `MCD`
+
+Para formar el `MCD` el cual esta compuesto por los factores comunes en su minimo exponente
+
+De esta forma si utilizamos el ejemplo con los mismos numeros que antes y solamente necesitamos el MINIMO COMUN DIVISOR
+
+`MCD (32;68) = 2`
