@@ -1,6 +1,6 @@
 # TP 2
 
-2.1) Factorizar el 15, 18, 20, 132.
+## 2.1) Factorizar el 15, 18, 20, 132.
 
 15/3
 5/5
@@ -22,7 +22,7 @@
 11/11
 1
 
-2.2) Sacar el mcm de 72 y 50
+## 2.2) Sacar el mcm de 72 y 50
 
 72/2
 36/2
