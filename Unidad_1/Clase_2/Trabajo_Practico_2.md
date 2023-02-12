@@ -81,18 +81,20 @@ Como no hay factores primeros pero todos los numeros son divisibles por 1, el MC
 
 ## 2.5) Realizar las siguientes operaciones
 
+```
 a) (-1)x7 = -7
 b) 3x(-2) = -6
 c) (-73)x(-5) = 365
+```
 
 ## 2.6) Simplificar:
 
+```
 a) 36/69
 b) 20/300
 c) 8/36
 d) 40/320
 
-```
 a) 36/69 -> 12/23
 b) 20/300 -> 4/60
 c) 8/36 -> 4/18 -> 2/9
