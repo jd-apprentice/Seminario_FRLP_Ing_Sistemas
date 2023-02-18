@@ -190,7 +190,7 @@ c)
 4 / 2
 ```
 
-## 2.10 Pasar a fracciones los siguientes decimales
+## 2.10) Pasar a fracciones los siguientes decimales
 
 a) 0,007
 b) 0,`7
@@ -208,4 +208,97 @@ d) 0,2`7 -> 27 - 2 / 90 -> 25 / 90 -> 5 / 18
 e) 0,10`7 -> 107-10 / 900 -> 97 / 900
 f) 0,77 -> 77 / 100
 g) 0,070`7 -> 707 - 70 / 900 -> 637 / 900
+```
+
+## 2.11) Indicar en palabras el siguiente significado de estas expresiones
+
+```
+a) X es mayor que 4 y menor que 10
+b) X es mayor e igual que 4 y menor que 10
+c) X es mayor que 4 y menor e igual que 10
+d) X es mayor e igual que 4 y menor e igual que 10
+e) X es mayor que 3 y menor e igual que 12
+f) X es mayor igual que 3 y menor que 12
+g) X es mayor igual que 3 y menor igual que 12
+h) X es mayor que 3 y menor que 12
+```
+
+## 2.12) Colocar E, E/, C, C/ segun corresponda.
+
+a) N [C->] Z
+b) -3 [E/->] N0
+c) Q [<-C] Z
+d) I [C->] R
+e) 1,3 [E->] Q
+f) 2√2 [E/->] Q
+g) {4,5; 2/3; 2,~3} [C/->] I
+h) R [<-C] Q
+
+## 2.13) Convertir en razones:
+
+```
+a) 0,02 = 2/100 -> 1/50
+b) 2,5 = 25/10 -> 5/2
+c) 6,25 = 625/100 -> 125/25 -> 25/5 -> 5/1
+d) 3,~6 = 36 - 3 / 9 -> 11/3
+e) 12,~4~5 = 1245 - 12 / 99 -> 1233 / 99 -> 411/33 -> 137/11
+f) 21,0~3~4 = 21034 - 210 / 990 -> 20824 / 990 -> 10412/495
+g) 3,13333 = 313333 / 100000 -> ??
+h) -2,7 = 27/10
+```
+
+## 2.14) Resolver
+
+a) 3/5 - (-0,6)
+
+Resultado: ![Resultado](https://i.imgur.com/MSAQuYN.png)
+
+b) (a - b) - (-a -b) (a - b) + (a + b) = a - b + a + b = 2a
+
+c) (5/6 - 3/2) - (3/2 - 5/6)
+
+Resultado: ![Resultado](https://i.imgur.com/nqf67uA.png)
+
+d)
+
+```
+7/10 - 1/5     7/4
+---------  + --------
+1 - 1/2     2 - 1/4
+```
+
+Resultado: ![Resultado](https://i.imgur.com/Df5JK9D.png)
+
+e) 0,0~4:0,8 - (8 - 2,~1): 0,~6
+
+Resultado: ![Resultado](https://i.imgur.com/3vCziQd.png)
+
+## 2.15) Hallar el MCD y el mcm de:
+
+a) 32 y 68
+b) 320 y 640
+c) 180, 252 y 594
+
+```
+a)
+68/2 -> 34/2 -> 17/17 -> 1
+32/2 -> 16/2 -> 8/2 -> 4/2 -> 2/2 -> 1
+
+mcm = 2^5 . 17 = 544
+MCD = 2^2 = 4
+
+b)
+320/2 -> 160/2 -> 80/2 -> 40/2 -> 20/2 -> 10/2 -> 5/5 -> 1
+640/2 -> 320/2 -> 160/2 -> 80/2 -> 40/2 -> 20/2 -> 10/2 -> 5/5 -> 1
+
+mcm = 2^7 . 5 = 640
+MCD = 2^6 . 5 = 320
+
+c)
+594/2 -> 297/3 -> 99/3 -> 33/3 -> 11/11 -> 1
+252/2 -> 126/2 -> 63/3 -> 21/3 -> 7/7 -> 1
+180/2 -> 90/2 -> 45/3 -> 15/3 -> 5/5 -> 1
+
+mcm = 2^2 . 3^3 . 5 . 7 . 11 = 41580
+MCD = 2 . 3^2 = 18
 ```

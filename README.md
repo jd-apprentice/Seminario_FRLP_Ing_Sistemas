@@ -5,6 +5,11 @@
 
 ![LOGO](./assets/logo-utn.png)
 
+# 📔 Notas
+
+- Unidad #1 Aritmetica -> Desaprobado
+- Unidad #2 Algebra -> In progress
+
 # 💾 Descargar script
 
 - Si no queres clonar el repositorio para poder utilizar los scripts podes directamente bajar el codigo en el siguiente [LINK](https://github.com/jd-apprentice/Seminario_FRLP_Ing_Sistemas/archive/refs/heads/main.zip)

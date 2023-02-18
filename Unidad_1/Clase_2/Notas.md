@@ -31,3 +31,11 @@ simplificás si podés hacerlo
 Ejercicio 2.10 ->
 
 - 0,070`7 -> 707 - 70 / 900 -> 637 / 900 Para el caso este prestar atencion que los valores antes de la coma no se tienen en cuenta y los 0 seguidos de la 0 tampoco para cuando se va a restar
+
+Ejercicio 2.14 ->
+
+Para resolver fracciones:
+
+- Para sumar y restar
+- Despues numerador por denominador de forma cruzada seria a x d y b x c asumiendo que tenemos algo asi -> a/b + c/d
+- De esta forma tenemos ahora ahora tenemos el mismo denominador y podemos sumar los numeradores
