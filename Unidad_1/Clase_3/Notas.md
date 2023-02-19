@@ -9,3 +9,12 @@ Es lo mismo que decir
 (2^2)^3 . 2^5
 
 Ahora tenemos la misma base y podemos continuar con la operacion
+
+## Raices
+
+Esencialmente es encontrar labase de una potencia
+
+- Raices de potencias, potencias de raices
+
+EJ1 = 2√2^3 = 2^(3/2)
+EJ2 = 5^(1/2) = 2√5
