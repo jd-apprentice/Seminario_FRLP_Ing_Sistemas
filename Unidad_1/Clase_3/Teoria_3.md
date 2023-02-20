@@ -221,3 +221,25 @@ Si tenemos 2/2 = 1 -- Si tenemos a^2/2 = 2√a^2 = a
 ![Teoria](https://i.imgur.com/XhkpclL.png)
 
 ## Suma de raices
+
+![Teoria](https://i.imgur.com/FRfORTs.png)
+
+## Indice comun
+
+Caso multiplicacion y suma con diferentes indices se puede aplicar el indice comun.
+
+5^(1/2) = 2√5
+
+![Teoria](https://i.imgur.com/fM5RRyH.png)
+
+- Si en una raiz multiplico por el mismo numero al indice de la raiz, y elevo al radicando por ese valor, no se altera
+
+- Se puede simplificar indice de una raiz con el exponente de un radicando
+
+Pasos del indice comun:
+
+1. Sacar el mcm de todos los indices
+2. Dividir el mcm por cada indice
+3. Con ese valor elevar al radicando (hay que recordar que si ya es una potencia se multiplican los exponentes)
+
+![Ejemplo](https://i.imgur.com/s5Lygo0.png)

@@ -18,3 +18,5 @@ Esencialmente es encontrar labase de una potencia
 
 EJ1 = 2√2^3 = 2^(3/2)
 EJ2 = 5^(1/2) = 2√5
+
+- Para sumar o multiplicar podemos usar INDICE COMUN
