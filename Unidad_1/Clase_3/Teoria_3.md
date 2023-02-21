@@ -220,11 +220,11 @@ Si tenemos 2/2 = 1 -- Si tenemos a^2/2 = 2√a^2 = a
 
 ![Teoria](https://i.imgur.com/XhkpclL.png)
 
-## Suma de raices
+## 🔢 Suma de raices
 
 ![Teoria](https://i.imgur.com/FRfORTs.png)
 
-## Indice comun
+## 🔢 Indice comun
 
 Caso multiplicacion y suma con diferentes indices se puede aplicar el indice comun.
 
@@ -243,3 +243,18 @@ Pasos del indice comun:
 3. Con ese valor elevar al radicando (hay que recordar que si ya es una potencia se multiplican los exponentes)
 
 ![Ejemplo](https://i.imgur.com/s5Lygo0.png)
+
+## 🔢 Extraer facores de una raiz
+
+Para los casos de raices con diferente radicando usamos EXTRAER o INTRODUCIR FACTORES. Consiste en usar dos tecnicas: Facrotizar el radicando, usar propiedad distributiva y simplificar raiz con potencia
+
+![Ejemplo](https://i.imgur.com/AeaLjD7.png)
+
+## 🔢 Diviendo raices
+
+![Resumen](https://i.imgur.com/PnfLIWv.png)
+
+## Racionalizacion
+
+![P1](https://i.imgur.com/06HK1Vg.png)
+![P2](https://i.imgur.com/YTbtCeB.png)

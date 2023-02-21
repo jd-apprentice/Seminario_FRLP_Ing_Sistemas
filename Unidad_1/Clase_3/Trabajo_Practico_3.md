@@ -57,4 +57,38 @@ Respuesta:
 
 ![Respuesta](https://i.imgur.com/UvOPK8j.png)
 
-## Racionalizar denominador
+## 🔢 Racionalizar denominador
+
+33. 1/√5 = √5/5
+
+![Resultado](https://i.imgur.com/0uWn8hG.png)
+
+34. 1 / 3√x = 3√x2 / x
+
+![Resultado](https://i.imgur.com/wPspQTk.png)
+
+35. √2/3 = √6/3
+
+![Resultado](https://i.imgur.com/Qy6ybWU.png)
+
+## 🔢 Resolver
+
+36. 125^2/3 = 25
+
+![Resultado](https://i.imgur.com/9RJSjBZ.png)
+
+37. (32/243^3/5) =
+
+![Resultado](https://i.imgur.com/7jF6L6R.png)
+
+38.
+
+![38](https://i.imgur.com/Yp3PKPl.png)
+
+39.
+
+![39](https://i.imgur.com/5XhvbRD.png)
+
+40.
+
+![40](https://i.imgur.com/lq1j5Lc.png)
