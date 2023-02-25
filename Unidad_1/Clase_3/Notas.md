@@ -20,3 +20,7 @@ EJ1 = 2√2^3 = 2^(3/2)
 EJ2 = 5^(1/2) = 2√5
 
 - Para sumar o multiplicar podemos usar INDICE COMUN
+
+## Propiedades de potencias
+
+![Propiedades](https://i.imgur.com/FUrMEJX.png)

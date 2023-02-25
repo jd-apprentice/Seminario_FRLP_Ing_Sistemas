@@ -53,3 +53,11 @@ A) = (1;1), B = (-1;-1)
 ![Resultado](https://i.imgur.com/cRzn3NR.png)
 
 11.3) Representar graficamente, determinar intersecciones a los ejes y simetrias
+
+a) y - x = 4
+
+![Resultado](https://i.imgur.com/65mr6xD.png)
+
+b) y = 2/3x - 1
+
+![Resultado](https://i.imgur.com/MbX66Oz.png)
