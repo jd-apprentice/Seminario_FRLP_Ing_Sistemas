@@ -61,3 +61,23 @@ a) y - x = 4
 b) y = 2/3x - 1
 
 ![Resultado](https://i.imgur.com/MbX66Oz.png)
+
+c) 2y + x = -4
+
+![Resultado](https://i.imgur.com/NDahyff.png)
+
+d) y - 3 = 2
+
+![Resultado](https://i.imgur.com/rTzLLxw.png)
+
+e) y - 3 = 1
+
+![Resultado](https://i.imgur.com/v1JlNkU.png)
+
+11.4) De cada ecuación: traza la gráfica,
+marca las intersecciones en x e y,
+utiliza las pruebas de simetría
+indicando si son simétricas con
+respecto al eje x, eje y o el origen
+
+a) y = 2x - 3

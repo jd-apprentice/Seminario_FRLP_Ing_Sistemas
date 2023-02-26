@@ -24,3 +24,7 @@ EJ2 = 5^(1/2) = 2√5
 ## Propiedades de potencias
 
 ![Propiedades](https://i.imgur.com/FUrMEJX.png)
+
+## Propiedades de raices
+
+![Propiedades](https://i.imgur.com/MGGVJgX.png)
