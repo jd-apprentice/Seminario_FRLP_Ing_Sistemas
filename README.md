@@ -8,7 +8,8 @@
 # 📔 Notas
 
 - Unidad #1 Aritmetica -> Desaprobado
-- Unidad #2 Algebra -> In progress
+- Unidad #2 Algebra -> Desaprobado
+- Unidad #3 Geometria Analitica -> In progress
 
 # 💾 Descargar script
 
