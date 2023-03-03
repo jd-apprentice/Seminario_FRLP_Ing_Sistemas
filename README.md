@@ -9,7 +9,8 @@
 
 - Unidad #1 Aritmetica -> Desaprobado
 - Unidad #2 Algebra -> Desaprobado
-- Unidad #3 Geometria Analitica -> In progress
+- Unidad #3 Geometria Analitica -> Desaprobado
+- Unidad #4 Trigonometria -> In progress
 
 # 💾 Descargar script
 
