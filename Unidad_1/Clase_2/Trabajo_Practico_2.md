@@ -243,7 +243,7 @@ c) 6,25 = 625/100 -> 125/25 -> 25/5 -> 5/1
 d) 3,~6 = 36 - 3 / 9 -> 11/3
 e) 12,~4~5 = 1245 - 12 / 99 -> 1233 / 99 -> 411/33 -> 137/11
 f) 21,0~3~4 = 21034 - 210 / 990 -> 20824 / 990 -> 10412/495
-g) 3,13333 = 313333 / 100000 -> ??
+g) 3,13~333 = 313 - 31 / 90 > 282 / 90
 h) -2,7 = 27/10
 ```
 
@@ -302,3 +302,33 @@ c)
 mcm = 2^2 . 3^3 . 5 . 7 . 11 = 41580
 MCD = 2 . 3^2 = 18
 ```
+
+## 2.16) Plantear y resolver: Calcular cuantos segundos hay en 1/2 de 3/5 de un minuto. Que fraccion del minuto representan estos segundos?
+
+![Respuesta](https://i.imgur.com/wtT4YKT.png)
+
+## 2.17) Plantear y resolver: Queremos
+
+plantar árboles en ambas márgenes
+de un arroyo de 7,2 KM de longitud.
+Si la distancia entre dos árboles
+consecutivos es de 8m, calcular
+cuántos árboles necesitamos.
+
+![Respuesta](https://i.imgur.com/kJID0bj.png)
+
+## 2.18) Tres amigos pasean en bicicletas
+
+por un camino de una sola mano que
+bordea un lago. Para dar una vuelta
+completa, uno de ellos tarda 15
+minutos, otro tarda 18 minutos y el
+restante tarda 20 minutos. Parten
+juntos y acuerdan interrumpir el
+paseo la primera vez que los tres
+pasen simultáneamente por le punto
+de partida. ¿Cuánto tiempo duró el
+paseo? ¿Cuántas vueltas dio cada
+uno?
+
+![Respuesta](https://i.imgur.com/8xQ3sjW.png)
