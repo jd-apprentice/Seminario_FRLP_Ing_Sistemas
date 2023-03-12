@@ -10,7 +10,8 @@
 - Unidad #1 Aritmetica -> Desaprobado
 - Unidad #2 Algebra -> Desaprobado
 - Unidad #3 Geometria Analitica -> Desaprobado
-- Unidad #4 Trigonometria -> In progress
+- Unidad #4 Trigonometria -> Desaprobado
+- Unidad #5 Matematica aplicada a la fisica -> In progress
 
 # 💾 Descargar script
 
