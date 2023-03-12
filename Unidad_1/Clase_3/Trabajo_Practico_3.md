@@ -92,3 +92,65 @@ Respuesta:
 40.
 
 ![40](https://i.imgur.com/lq1j5Lc.png)
+
+41.
+
+![41](https://i.imgur.com/SYH5XnX.png)
+
+42.
+
+![42](https://i.imgur.com/PypSUcF.png)
+
+43.
+
+![43](https://i.imgur.com/Vof4VrN.png)
+
+44.
+
+![44](https://i.imgur.com/sUJQbeK.png)
+
+45.
+
+![45](https://i.imgur.com/p69wsfO.png)
+
+46.
+
+![46](https://i.imgur.com/BdTgZ3c.png)
+
+47.
+
+![47](https://i.imgur.com/TJQvjgt.png)
+
+48.
+
+![48](https://i.imgur.com/mbGluWL.png)
+
+## 🔢 Averiguar valor de X
+
+49.
+
+![49](https://i.imgur.com/9r8C1dx.png)
+
+50.
+
+![50](https://i.imgur.com/kD7BuBK.png)
+
+## 🔢 Hallar el valor de las siguientes potencias
+
+51.
+
+a) (1/4)^-1 = 4
+
+![51-A](https://i.imgur.com/PHF48zK.png)
+
+b) (-3/4)^-3 = -64/27
+
+![51-B](https://i.imgur.com/VyxXGLI.png)
+
+c) (2^1/2)^4 = 4
+
+![51-C](https://i.imgur.com/CJzdIr1.png)
+
+d) 16^1/4 = 2
+
+![51-D](https://i.imgur.com/K9yvZIK.png)
