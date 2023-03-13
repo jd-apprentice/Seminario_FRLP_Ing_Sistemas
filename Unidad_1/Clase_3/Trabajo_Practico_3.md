@@ -154,3 +154,52 @@ c) (2^1/2)^4 = 4
 d) 16^1/4 = 2
 
 ![51-D](https://i.imgur.com/K9yvZIK.png)
+
+e) 8^-3/2 = ???
+
+## 🔢 Resolver
+
+52.
+
+a) (-2)^2 - 21 - (-13) + 5^0
+
+![52-A](https://i.imgur.com/YnjhqOJ.png)
+
+b) 2^3 + 2^2 + 2^1 + 2^0 . 2^-1 = 29/2 = 14.5
+
+![52-B](https://i.imgur.com/Ig7lbSt.png)
+
+c) 3[(-1 -2) +4]^2 + 5[4-(7 -3)] = 3
+
+![52-C](https://i.imgur.com/3x8zUXe.png)
+
+## 🔢 Resolver
+
+53.
+
+a) √4/3 . √3/5 . √5 = 2
+
+![53-A](https://i.imgur.com/k47er90.png)
+
+b) 3√1 - 7/8 = 1/2
+
+![53-B](https://i.imgur.com/37dSd72.png)
+
+c) 3√1/512(-27/64)(-729) = 27/32
+
+![53-C](https://i.imgur.com/MUetx2E.png)
+
+54.
+
+![54](https://i.imgur.com/KhwN0HE.png)
+
+55.
+
+![55](https://i.imgur.com/PPiP8M7.png)
+
+56.
+
+a) a^2 + a^2 + a^2 = 3.a^2
+b) a^2 . a^2 . a^2 = a^6
+c) a^2 . a^5 / a^3 = a^7 / a^3 = a^4
+d) (a.b)^2 . a^5 = a^7 . b^2
