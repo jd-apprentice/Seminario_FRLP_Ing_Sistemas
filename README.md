@@ -11,7 +11,7 @@
 - Unidad #2 Algebra -> Desaprobado
 - Unidad #3 Geometria Analitica -> Desaprobado
 - Unidad #4 Trigonometria -> Desaprobado
-- Unidad #5 Matematica aplicada a la fisica -> In progress
+- Unidad #5 Matematica aplicada a la fisica -> Desaprobado
 
 # 💾 Descargar script
 
