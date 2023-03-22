@@ -12,6 +12,7 @@
 - Unidad #3 Geometria Analitica -> Desaprobado
 - Unidad #4 Trigonometria -> Desaprobado
 - Unidad #5 Matematica aplicada a la fisica -> Desaprobado
+- Unidad #6 Resolucion de problemas -> In progress
 
 # 💾 Descargar script
 
