@@ -12,7 +12,10 @@
 - Unidad #3 Geometria Analitica -> Desaprobado
 - Unidad #4 Trigonometria -> Desaprobado
 - Unidad #5 Matematica aplicada a la fisica -> Desaprobado
-- Unidad #6 Resolucion de problemas -> In progress
+- Unidad #6 Resolucion de problemas -> Desaprobado
+- Cursada Febrero-Marzo -> Recursada
+
+- Voy a empezar a estudiar para una nueva cursada en agosto, en lo que va del tiempo voy a resolver todos los ejercicios de todas las unidades y los voy a compartir en este repositorio, seguramente tambien haga los parciales que tengo a mi alcance.
 
 # 💾 Descargar script
 
